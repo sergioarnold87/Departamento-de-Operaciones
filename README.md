@@ -1,5 +1,5 @@
 # Departamento de Operaciones
- Ayudaremos a los neumologos, junto a la visión por computadora, a diagnosticar enfermedades pulmonares.
+ Ayudaremos a los neumólogos, junto a la visión por computadora, a diagnosticar enfermedades pulmonares.
  
  ![operations_slides 001](https://user-images.githubusercontent.com/63738224/121746401-d7a8b480-cad3-11eb-9bbe-9ad7a5a35bde.png)
 ![operations_slides 002](https://user-images.githubusercontent.com/63738224/121746408-db3c3b80-cad3-11eb-877d-bc6b7b7860b6.png)
